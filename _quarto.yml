@@ -19,6 +19,8 @@ book:
   favicon: fav.png
   # https://make.orlybooks.com/
   cover-image: orly-book-cover.png
+  repo-url: https://github.com/materov/rsources-book/
+  repo-actions: [edit]
   sidebar:
       collapse-level: 1
   navbar:
