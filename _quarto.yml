@@ -3,8 +3,8 @@ project:
   preview:
     port: 1111
 
-# execute:
-#   freeze: auto
+execute:
+  freeze: auto
 
 website: 
   announcement: 

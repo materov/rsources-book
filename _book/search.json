@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Добро пожаловать!",
+    "section": "",
+    "text": "Как можно добавить свой материал?\nЗдесь находится список ресурсов по языку программирования R и сопутствующих источников по Data Science и не только, которые обсуждаются в рамках Telegram-канала  Наука и данные — дайджесту по полезным и интересным инструментам в науке о данных, машинному обучению и визуализации данных.\nЕсли вы хотите, чтобы ваша ссылка появилась на веб-странице Rесурсы, предложить сделать новый раздел или заметили опечатку, можно создать issue или pull request в  репозитории.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Добро пожаловать!</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-Hadley.html",
+    "href": "books/books-Hadley.html",
+    "title": "автор Hadley Wickham",
+    "section": "",
+    "text": "Hadley Wickham — новозеландский программист и статистик, автор множества библиотек на основе tidy-подхода, сыгравшего фундаментальную роль в развитии языка программирования R. Ниже приведены не только ссылки на книги этого замечательного классика, но и ссылки на решения упражнений из его книг и переводы на русский язык.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>автор Hadley Wickham</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-russian.html",
+    "href": "books/books-russian.html",
+    "title": "русскоязычные авторы",
+    "section": "",
+    "text": "Здесь показаны книги и авторские курсы русскоязычных авторов, сделанные как веб-страницы, pdf или опубликованные в издательствах материалы.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>русскоязычные авторы</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-english.html",
+    "href": "books/books-english.html",
+    "title": "англоязычные авторы",
+    "section": "",
+    "text": "В таблице приведены книги англоязычных авторов, в основном по языку программирования R и Data Science.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>англоязычные авторы</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-ML.html",
+    "href": "books/books-ML.html",
+    "title": "моделирование и машинное обучение",
+    "section": "",
+    "text": "Книги и ресурсы по моделированию и машинному обучению.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>моделирование и машинное обучение</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-geo.html",
+    "href": "books/books-geo.html",
+    "title": "геопространственный анализ",
+    "section": "",
+    "text": "Книги по геопространственному анализу, не только на основе R, но и Python и Julia.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>геопространственный анализ</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-statistics.html",
+    "href": "books/books-statistics.html",
+    "title": "статистика",
+    "section": "",
+    "text": "Здесь приведены книги и ресурсы по статистике.\nСлучайная цитата из statquotes по темам, связанным со статистикой:\n\nWe should push for de-emphasizing some topics, such as statistical significance tests–an unfortunate carry-over from the traditional elementary statistics course. We would suggest a greater focus on confidence intervals—these achieve the aim of formal hypothesis testing, often provide additional useful information, and are not as easily misinterpreted. – Gerry Hahn et. al, The Impact of Six Sigma Improvement–A Glimpse Into the Future of Statistics, The American Statistician, August 1999.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>статистика</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-DL.html",
+    "href": "books/books-DL.html",
+    "title": "глубокое обучение",
+    "section": "",
+    "text": "Книги и ресурсы по Deep Learning.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>глубокое обучение</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-time-series.html",
+    "href": "books/books-time-series.html",
+    "title": "временные ряды",
+    "section": "",
+    "text": "Книги и ресурсы, касающиеся временных рядов.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>временные ряды</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-texts.html",
+    "href": "books/books-texts.html",
+    "title": "анализ текстов",
+    "section": "",
+    "text": "Книги и ресурсы по анализу текстов.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>анализ текстов</span>"
+    ]
+  },
+  {
+    "objectID": "books/books-economics.html",
+    "href": "books/books-economics.html",
+    "title": "экономика и бизнес",
+    "section": "",
+    "text": "Книги и ресурсы по экономике и смежным вопросам.",
+    "crumbs": [
+      "Книги",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>экономика и бизнес</span>"
+    ]
+  },
+  {
+    "objectID": "chellendges/TidyTuesday.html",
+    "href": "chellendges/TidyTuesday.html",
+    "title": "TidyTuesday",
+    "section": "",
+    "text": "TidyTuesday — это социальный еженедельный информационный проект, который в первую очередь направлен на экосистему R. Каждую неделю на сайте проекта и в социальных сетях публикуется необработанный набор данных, небольшая сопроводительная диаграмма и статья с описанием. Прекрасный пример визуализаций проекта TidyTuesday — дэшборд, который сделала Nicola Rennie.",
+    "crumbs": [
+      "Челленджи и социальные проекты",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>TidyTuesday</span>"
+    ]
+  },
+  {
+    "objectID": "chellendges/30DayMapChallenge.html",
+    "href": "chellendges/30DayMapChallenge.html",
+    "title": "30DayMapChallenge",
+    "section": "",
+    "text": "30DayMapChallenge — это ежедневный проект социального картографирования, который проводится каждый ноябрь. Идея состоит в том, чтобы создавать карты на разные темы каждый день ноября и публиковать карты в специально отведенные дни в социальных сетях. Для участия не нужно нигде регистрироваться, нет никаких ограничений на инструменты, технологии или данные, которые вы используете в своих картах.",
+    "crumbs": [
+      "Челленджи и социальные проекты",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>30DayMapChallenge</span>"
+    ]
+  },
+  {
+    "objectID": "chellendges/30DayChartChallenge.html",
+    "href": "chellendges/30DayChartChallenge.html",
+    "title": "30DayChartChallenge",
+    "section": "",
+    "text": "30DayChartChallenge — это ежемесячный челлендж сообщества, посвященный визуализации данных.",
+    "crumbs": [
+      "Челленджи и социальные проекты",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>30DayChartChallenge</span>"
+    ]
+  },
+  {
+    "objectID": "chellendges/DuboisChallenge.html",
+    "href": "chellendges/DuboisChallenge.html",
+    "title": "DuboisChallenge",
+    "section": "",
+    "text": "W. E. B. Du Bois — американский социолог, социалист, историк и борец за гражданские права чернокожего населения, он был первым афроамериканцем, получившим докторскую степень. Начиная с 2021 года проводится Dubois Visualization Challenge в области визуализации данных по воссозданию Du Bois визуализаций Парижской выставки 1900 года с использованием современных инструментов. Оригинальные работы узнаваемы, они противопоставляют жизнь белых и чернокожих американцев того времени, рисунки нарисованы от руки, но при этом тщательно и аккуратно.",
+    "crumbs": [
+      "Челленджи и социальные проекты",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>DuboisChallenge</span>"
+    ]
+  },
+  {
+    "objectID": "chellendges/AdventofCode.html",
+    "href": "chellendges/AdventofCode.html",
+    "title": "Advent of Code",
+    "section": "",
+    "text": "Ежегодно с 2015 года Eric Wastl публикует список ежедневных задачек по программированию. По сути, Advent of Code — это вариант предрождественского календаря. Для решения этих программных головоломок не требуется большого мастерства. Тем не менее, люди используют их в качестве подготовки к собеседованию, обучения в компании, для университетских курсовых работ, соревнований на скорость или просто для того, чтобы бросить вызов друг другу.",
+    "crumbs": [
+      "Челленджи и социальные проекты",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Advent of Code</span>"
+    ]
+  }
+]
