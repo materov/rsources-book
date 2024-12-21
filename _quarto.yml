@@ -27,6 +27,7 @@ book:
     right:
       - icon: telegram
         href: https://t.me/naukaidannye
+        text: "канал Наука и данные"
     background: "#2860a1"
     #collapse-below: lg
     logo: logo.jpeg
