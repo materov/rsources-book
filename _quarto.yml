@@ -20,7 +20,7 @@ book:
   # https://make.orlybooks.com/
   cover-image: orly-book-cover.png
   repo-url: https://github.com/materov/rsources-book/
-  repo-actions: [edit]
+  repo-actions: [issue]
   sidebar:
       collapse-level: 1
   navbar:
@@ -92,4 +92,5 @@ lang: ru
 
 language:
   title-block-published: "Дата обновления"
+  repo-action-links-issue: "Создать issue на GitHub"
 
