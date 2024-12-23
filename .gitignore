@@ -1,3 +1,5 @@
+/_book/
+
 # History files
 .Rhistory
 .Rapp.history
@@ -52,4 +54,4 @@ rsconnect/
 # General
 .DS_Store
 /.quarto/
-/_site/
+
