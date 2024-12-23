@@ -16,7 +16,7 @@
     "section": "",
     "text": "Hadley Wickham — новозеландский программист и статистик, автор множества библиотек на основе tidy-подхода, сыгравшего фундаментальную роль в развитии языка программирования R. Ниже приведены не только ссылки на книги этого замечательного классика, но и ссылки на решения упражнений из его книг и переводы на русский язык.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>автор Hadley Wickham</span>"
     ]
   },
@@ -27,7 +27,7 @@
     "section": "",
     "text": "Здесь показаны книги и авторские курсы русскоязычных авторов, сделанные как веб-страницы, pdf или опубликованные в издательствах материалы.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>русскоязычные авторы</span>"
     ]
   },
@@ -38,7 +38,7 @@
     "section": "",
     "text": "В таблице приведены книги англоязычных авторов, в основном по языку программирования R и Data Science.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>англоязычные авторы</span>"
     ]
   },
@@ -49,7 +49,7 @@
     "section": "",
     "text": "Книги и ресурсы по моделированию и машинному обучению.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>моделирование и машинное обучение</span>"
     ]
   },
@@ -60,7 +60,7 @@
     "section": "",
     "text": "Книги по геопространственному анализу, не только на основе R, но и Python и Julia.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>геопространственный анализ</span>"
     ]
   },
@@ -69,9 +69,9 @@
     "href": "books/books-statistics.html",
     "title": "статистика",
     "section": "",
-    "text": "Здесь приведены книги и ресурсы по статистике.\nСлучайная цитата из statquotes по темам, связанным со статистикой:\n\nThe goals in statistics are to use data to predict and to get information about the underlying data mechanism. Nowhere is it written on a stone tablet what kind of model should be used to solve problems involving data. To make my position clear, I am not against models per se. In some situations they are the most appropriate way to solve the problem. But the emphasis needs to be on the problem and on the data. Unfortunately, our field has a vested interest in models, come hell or high water. – Leo Breiman, Statistical Modeling: The Two Cultures, Statistical Science, Vol 16, p. 214.",
+    "text": "Здесь приведены книги и ресурсы по статистике.\nСлучайная цитата из statquotes по темам, связанным со статистикой:\n\nSome people hate the very name of statistics, but I find them full of beauty and interest. Whenever they are not brutalised, but delicately handled by the higher methods, and are warily interpreted, their power of dealing with complicated phenomena is extraordinary. They are the only tools by which an opening can be cut through the formidable thicket of difficulties that bars the path of those who pursue the Science of man. – Frances Galton, Natural Inheritance.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>статистика</span>"
     ]
   },
@@ -82,7 +82,7 @@
     "section": "",
     "text": "Книги и ресурсы по Deep Learning.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>глубокое обучение</span>"
     ]
   },
@@ -93,7 +93,7 @@
     "section": "",
     "text": "Книги и ресурсы, касающиеся временных рядов.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>временные ряды</span>"
     ]
   },
@@ -104,7 +104,7 @@
     "section": "",
     "text": "Книги и ресурсы по анализу текстов.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>анализ текстов</span>"
     ]
   },
@@ -115,7 +115,7 @@
     "section": "",
     "text": "Книги и ресурсы по экономике и смежным вопросам.",
     "crumbs": [
-      "Книги",
+      "Книги и ресурсы",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>экономика и бизнес</span>"
     ]
   },

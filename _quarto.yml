@@ -43,7 +43,7 @@ book:
   chapters:
     - index.qmd
     - blogs.qmd
-    - part: "Книги"
+    - part: "Книги и ресурсы"
       chapters:
         - books/books-Hadley.qmd
         - books/books-russian.qmd
