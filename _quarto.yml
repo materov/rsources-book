@@ -69,8 +69,8 @@ book:
         - chellendges/AdventofCode.qmd
     - part: "Quarto"
       chapters: 
-        - quarto/quarto-links.qmd
-        - quarto/quarto-storytelling.qmd
+        - quarto-pub/quarto-links.qmd
+        - quarto-pub/quarto-storytelling.qmd
     - part: "Наборы полезных ссылок"
       chapters: 
         - links/useful-links.qmd
