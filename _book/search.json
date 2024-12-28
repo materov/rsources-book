@@ -69,7 +69,7 @@
     "href": "books/books-statistics.html",
     "title": "статистика",
     "section": "",
-    "text": "Здесь приведены книги и ресурсы по статистике.\nСлучайная цитата из statquotes по темам, связанным со статистикой:\n\nNo study is less alluring or more dry and tedious than statistics, unless the mind and imagination are set to work, or that the person studying is particularly interested in the subject; which last can seldom be the case with young men in any rank of life. – William Playfair, The Statistical Breviary (1801), p. 16",
+    "text": "Здесь приведены книги и ресурсы по статистике.\nСлучайная цитата из statquotes по темам, связанным со статистикой:\n\nFrequentist statistics assumes that there is a ‘true’ state of the world (e.g. the difference between species in predation probability) which gives rise to a distribution of possible experimental outcomes. The Bayesian framework says instead that the experimental outcome - what we actually saw happen - is the truth, while the parameter values or hypotheses have probability distributions. The Bayesian framework solves many of the conceptual problems of frequentist statistics: answers depend on what we actually saw and not on a range of hypothetical outcomes, and we can legitimately make statements about the probability of different hypotheses or parameter values. – Ben Bolker, Ecological Models and Data in R, 2007",
     "crumbs": [
       "Книги и ресурсы",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>статистика</span>"
