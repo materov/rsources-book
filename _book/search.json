@@ -69,7 +69,7 @@
     "href": "books/books-statistics.html",
     "title": "статистика",
     "section": "",
-    "text": "Здесь приведены книги и ресурсы по статистике.\nСлучайная цитата из statquotes по темам, связанным со статистикой:\n\nThe only thing we know for sure about a missing data point is that it is not there, and there is nothing that the magic of statistics can do do change that. The best that can be managed is to estimate the extent to which missing data have influenced the inferences we wish to draw. – Howard Wainer",
+    "text": "Здесь приведены книги и ресурсы по статистике.\nСлучайная цитата из statquotes по темам, связанным со статистикой:\n\nEven properly done statistics can’t be trusted. The plethora of available statistical techniques and analyses grants researchers an enormous amount of freedom when analyzing their data, and it is trivially easy to ‘torture the data until it confesses’. – Alex Reinhart, Statistics Done Wrong: The Woefully Complete Guide, 2015",
     "crumbs": [
       "Книги и ресурсы",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>статистика</span>"
@@ -164,6 +164,17 @@
     ]
   },
   {
+    "objectID": "chellendges/GENUARY.html",
+    "href": "chellendges/GENUARY.html",
+    "title": "GENUARY",
+    "section": "",
+    "text": "GENUARY это ежегодный челлендж по генеративному арту, который проходит в течение всего января на genuary.art. Делитесь своими работами во всех социальных сетях с тегом #genuary. Ежедневные задания появляются в разделе prompt, к участию приглашаются все желающие!",
+    "crumbs": [
+      "Челленджи и социальные проекты",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>GENUARY</span>"
+    ]
+  },
+  {
     "objectID": "chellendges/AdventofCode.html",
     "href": "chellendges/AdventofCode.html",
     "title": "Advent of Code",
@@ -171,7 +182,7 @@
     "text": "Ежегодно с 2015 года Eric Wastl публикует список ежедневных задачек по программированию. По сути, Advent of Code — это вариант предрождественского календаря. Для решения этих программных головоломок не требуется большого мастерства. Тем не менее, люди используют их в качестве подготовки к собеседованию, обучения в компании, для университетских курсовых работ, соревнований на скорость или просто для того, чтобы бросить вызов друг другу.",
     "crumbs": [
       "Челленджи и социальные проекты",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Advent of Code</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Advent of Code</span>"
     ]
   }
 ]
